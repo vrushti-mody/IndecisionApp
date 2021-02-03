@@ -1,0 +1,13 @@
+body{
+    background-color: $dark-blue;
+    font-family: Helvetica, 'Times New Roman', Arial, sans-serif;
+    font-size:$m-size;
+    color: white;
+   
+}
+button{
+    cursor: pointer;
+}
+button:disabled{
+    cursor: default;
+}
